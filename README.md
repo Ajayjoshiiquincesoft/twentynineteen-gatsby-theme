@@ -31,3 +31,5 @@ If this is your first time using Yarn workspaces, [check out the docs](https://y
 - https://twitter.com/muhsinlk
 - https://twitter.com/jasonbahl
 - https://twitter.com/hussain_thaj
+
+sudo yarn global add gatsby-cli
